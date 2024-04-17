@@ -1,0 +1,7 @@
+C:\Users\camcs\Documents\Projects for Fun\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\camcs\Documents\Projects for Fun\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\camcs\Documents\Projects for Fun\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\camcs\Documents\Projects for Fun\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\camcs\Documents\Projects for Fun\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\camcs\Documents\Projects for Fun\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\camcs\Documents\Projects for Fun\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
